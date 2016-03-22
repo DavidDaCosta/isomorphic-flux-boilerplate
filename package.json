@@ -83,7 +83,7 @@
   },
   "devDependencies": {
     "blocked": "^1.1.0",
-    "browser-sync": "^2.8.0",
+    "browser-sync": "^2.11.2",
     "dev-ip": "^1.0.1",
     "eslint": "^2.2.0",
     "eslint-config-airbnb": "^6.0.2",
